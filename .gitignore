@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+#themes
+themes/hexo-theme-aero-dual-master/*
+themes/landscape/*
+themes/*.zip
+!themes/*/_config.yml
+
+#source/resume
+source/resume/bak/*
+!source/resume/bak/components-zero.zip
