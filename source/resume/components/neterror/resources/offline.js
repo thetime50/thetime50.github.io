@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 (function() {
-'use strict';
+//'use strict';
 /**
  * T-Rex runner.
  * @param {string} outerContainerId Outer containing element id.
@@ -325,10 +325,39 @@ Runner.prototype = {
         soundSrc = soundSrc.substr(soundSrc.indexOf(',') + 1);
         var buffer = decodeBase64ToArrayBuffer(soundSrc);
 
+        /*
+        function toAudio(bol){
+          fr = new FileReader();
+          fr.onload = function(e) {
+            var fileResult = e.target.result;
+            this.audioContext.decodeAudioData(fileResult, function(index, audioData) {
+              this.soundFx[index] = audioData;
+            }.bind(this, sound));
+          };
+          
+          fr.readAsArrayBuffer(bol);
+        }
+
+        if(soundSrc.indexOf('file:///')!=0){
+          var request = new XMLHttpRequest(); 
+          (function (req){
+            req.open('GET', soundSrc, true); 
+            req.responseType = 'blob'; 
+            
+            req.onload = function() {
+              toAudio(req.response)
+            }
+            req.send();
+          })(request)
+        }else{
+
+        }
+      */
+
         // Async, so no guarantee of order in array.
         this.audioContext.decodeAudioData(buffer, function(index, audioData) {
-            this.soundFx[index] = audioData;
-          }.bind(this, sound));
+          this.soundFx[index] = audioData;
+        }.bind(this, sound));
       }
     }
   },
@@ -355,8 +384,8 @@ Runner.prototype = {
    */
   init: function() {
     // Hide the static icon.
-    document.querySelector('.' + Runner.classes.ICON).style.visibility =
-        'hidden';
+    //document.querySelector('.' + Runner.classes.ICON).style.visibility =
+    //    'hidden';
 
     this.adjustDimensions();
     this.setSpeed();
