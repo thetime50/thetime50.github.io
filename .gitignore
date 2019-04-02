@@ -15,3 +15,5 @@ themes/*.zip
 #source/resume
 source/resume/bak/*
 !source/resume/bak/components-zero.zip
+
+show-pages/
