@@ -28,7 +28,7 @@ tags:
 - [分离chrome的t-rex-runner](https://thetime50.github.io/show-pages/t-rex-runner-zero)  
 - [类似bilibili app的vue实现(进行中)](https://github.com/thetime50/Bilebilelike)  
 
-**Bilebilelike项目介绍**
+**前端项目Bilebilelike项目介绍**
 类似bilibili app的vue实现  
 
 - 项目自动获取网卡IP能够在局域网访问(虽然对于Secure Origins要求的应用使用localhost会更方便一些)
