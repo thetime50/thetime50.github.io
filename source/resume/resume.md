@@ -5,6 +5,15 @@ tags:
 ---
 # 求职简历
 
+## 专业技能
+- 前端框架：  Vue全家桶 JQuery 等
+- UI框架：   BootStrap Mint-ui Element-ui 等
+- 组件： Swiper better-scroll vue-lazyload vue-touch 等
+- 服务： axios mockjs 调试postman Tampermonkey ReRes Ajax-Interceptor 等
+- 项目： webpack vuecli 等
+- 了解 React Amaze-UI ES6 eslint ionc cordova tcpdump infogram等
+- python。嵌入式产品和项目经验
+
 ## 从业经历
 4年嵌入式物联网工作经验转前端发展。  
 先前的职业方向与现在选择的前端联系不大，就简单说下  
@@ -15,18 +24,8 @@ tags:
 3. 独立完成产品工装测试工具软件框架
 4. 独立完成单台窗帘控制器产品/传感器终端产品固件 BACNet协议
 
-## 专业技能
-- 前端框架：  Vue全家桶 JQuery 等
-- UI框架：   BootStrap Mint-ui Element-ui 等
-- 组件： Swiper better-scroll vue-lazyload vue-touch 等
-- 服务： axios mockjs 调试postman Tampermonkey ReRes Ajax-Interceptor 等
-- 项目： webpack vuecli 等
-- 了解 React Amaze-UI ES6 eslint ionc cordova tcpdump infogram等
-- python。嵌入式产品和项目经验
-
 ## 开源项目
 - [分离chrome的t-rex-runner](https://thetime50.github.io/show-pages/t-rex-runner-zero)  
-本来想放简历页上来，但是套一层iframe canvas都不显示了，不知道啥原因
 - [类似bilibili app的vue实现(进行中)](https://github.com/thetime50/Bilebilelike)  
 
 **Bilebilelike项目介绍**
