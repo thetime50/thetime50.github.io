@@ -47,8 +47,8 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
   - buckets 队列
   - echarts-gl 3d图表
   - resarch记录:
-    - [github log-2020-03-28](https://github.com/thetime50/note/blob/master/%E6%97%A5%E5%BF%97/2020/log-2020-03-28.md}
-    - [github log-2020-03-29](https://github.com/thetime50/note/blob/master/%E6%97%A5%E5%BF%97/2020/log-2020-03-29.md}
+    - [github log-2020-03-28](https://github.com/thetime50/note/blob/master/%E6%97%A5%E5%BF%97/2020/log-2020-03-28.md)
+    - [github log-2020-03-29](https://github.com/thetime50/note/blob/master/%E6%97%A5%E5%BF%97/2020/log-2020-03-29.md)
 - [脚本工具和cnd -2020](https://github.com/thetime50/tampermonkeyscript/blob/master/README.md)
 
 <style>
@@ -59,24 +59,24 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
 }
 </style>
 
-<div class="img-wrap flex-layout frow" style="height:300px">
-    <div class="flex-mean ">
-        <div><a src="https://thetime50.github.io/Bilebilelike">Bilebilelike预览：→link</a></div>
-        <img alt="Bilibililike-qr.png" 
-            src="https://github.com/thetime50/Bilebilelike/raw/master/docs/imgs/Bilibililike-qr.png"/>
-    </div>
-    <div class="flex-mean">
-        <div><a src="https://codepen.io/thetime50/full/dyowVWE">Game of life预览：→link</a></div>
-        <img alt="GameOfLife-qr.png" 
-            src="./img/GameOfLife-qr.png"/>
-    </div>
-</div>
-<!--
+<div class="img-wrap flex-layout frow"
+    ><div class="flex-mean "
+        ><div><a src="https://thetime50.github.io/Bilebilelike">Bilebilelike预览：→link</a></div
+        ><img alt="Bilibililike-qr.png" 
+            src="https://github.com/thetime50/Bilebilelike/raw/master/docs/imgs/Bilibililike-qr.png"
+    /></div
+    ><div class="flex-mean"
+        ><div><a src="https://codepen.io/thetime50/full/dyowVWE">Game of life预览：→link</a></div
+        ><img alt="GameOfLife-qr.png" 
+            src="./img/GameOfLife-qr.png"
+    /></div
+></div>
+<div><!--
 http://www.wwei.cn/
 液态 2000*2000
 08d5ff
 fb66fb
--->
+--></div>
 
 ## 学习关注的方向
 产品 设计 一点点的后端和大前端 webGL webapp 机器学习 小程序 游戏  
