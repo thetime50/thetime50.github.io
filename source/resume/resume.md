@@ -1,9 +1,9 @@
 ---
-title: 简历
+title: About Me
 date: 2020-03-31 21:39:51
 tags:
 ---
-# 求职简历
+# About Me
 
 ## 专业技能
 - 前端框架：  Vue全家桶 JQuery 等
