@@ -66,6 +66,8 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
     - [github log-2020-03-28](https://github.com/thetime50/note/blob/master/%E6%97%A5%E5%BF%97/2020/log-2020-03-28.md)
     - [github log-2020-03-29](https://github.com/thetime50/note/blob/master/%E6%97%A5%E5%BF%97/2020/log-2020-03-29.md)
 - [脚本工具和cnd -2020](https://github.com/thetime50/tampermonkeyscript/blob/master/README.md)
+- [opencv学习笔记 -2020](https://github.com/thetime50/opencv-practice)
+
 
 <style>
 @import url('https://cdn.jsdelivr.net/gh/thetime50/tampermonkeyscript@master/style/common.css');
@@ -110,3 +112,9 @@ codepen: https://codepen.io/thetime50/
 阿里天池: https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279474052  
 
 经常关注各类电台、Podcast：北槽、BYM、Anyway.FM、设计乘数、ggtallk、一天世界、优设、UX Coffee、等  
+
+***<u>目标是有钱有闲，安排好时间工作 生活 学习，交朋友 开阔眼界 保持增长。</u>***
+
+- [社交账号->](https://thetime50.github.io/resume/social.md)
+
+- 暂时没考虑离职 欢迎来撩，欢迎勾搭扯淡，欢迎指点迷津
