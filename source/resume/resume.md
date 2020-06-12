@@ -5,6 +5,8 @@ tags:
 ---
 # About Me
 
+<!--info-->
+
 ## 专业技能
 - 前端框架：  Vue全家桶 JQuery 等
 - UI框架：   BootStrap Mint-ui Element-ui quasar 等
