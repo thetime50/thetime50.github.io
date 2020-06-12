@@ -115,6 +115,6 @@ codepen: https://codepen.io/thetime50/
 
 ***<u>目标是有钱有闲，安排好时间工作 生活 学习，交朋友 开阔眼界 保持增长。</u>***
 
-- [社交账号->](https://thetime50.github.io/resume/social.md)
+- [社交账号->](https://thetime50.github.io/resume/social)
 
 - 暂时没考虑离职 欢迎来撩，欢迎勾搭扯淡，欢迎指点迷津

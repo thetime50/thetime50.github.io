@@ -21,7 +21,7 @@
             src="./img/wyy.jpg"
     /></div
 ></div>
-<div>
+
 <div class="img-wrap flex-layout frow"
     ><div class="flex-mean "
         ><div><a src="https://github.com/thetime50">github →link</a></div
@@ -34,7 +34,6 @@
             src="./img/codepen.png"
     /></div
 ></div>
-<div>
 
 <div class="img-wrap flex-layout frow"
     ><div class="flex-mean"
@@ -48,7 +47,7 @@
             src="./img/weibo.png"
     /></div
 ></div>
-<div>
+
 <div class="img-wrap flex-layout frow"
     ><div class="flex-mean"
         ><div><a src="https://mayflymind.lofter.com">lofter->link</a></div
@@ -61,4 +60,3 @@
             src="./img/weibo.png"
     />--></div
 ></div>
-<div>
