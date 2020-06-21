@@ -119,4 +119,4 @@ codepen: https://codepen.io/thetime50/
 
 - [社交账号->](https://thetime50.github.io/resume/social)
 
-- 暂时没考虑离职 欢迎来撩，欢迎勾搭扯淡，欢迎指点迷津
+- 欢迎来撩，欢迎勾搭扯淡，欢迎指点迷津
