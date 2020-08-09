@@ -24,10 +24,30 @@
   <title>Hexo</title>
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="/css/bootstrap.min.css"> -->
   <!-- Custom CSS -->
-  
-  <link rel="stylesheet" href="/css/style.light.css">
+  <!--  -->
+  <!-- <link rel="stylesheet" href="/css/style.light.css"> -->
+
+  <script>
+    function tool_css(path){
+      let el = document.createElement('link')
+      el.rel = "stylesheet" 
+      if(document.location.hostname == "thetime50.com"){//"thetime50.github.io"){//
+        el.href= `/io/${path}`
+      }else{//"thetime50.com"){
+        el.href= `/${path}`
+      }
+      document.head.appendChild(el)
+    }
+    // Bootstrap CSS
+    tool_css('css/bootstrap.min.css')
+    // Custom CSS
+    
+      var targetStyle = "css/style.light.css"
+      console.log(targetStyle)
+    tool_css(targetStyle)
+  </script>
 
   <!-- Google Analytics -->
   
@@ -100,7 +120,7 @@
           <!-- Date -->
           <span class="date-time info">On
             <span class="date">2019-03-22</span>
-            <span class="time">04:31:06</span>
+            <span class="time">11:45:08</span>
           </span>
           
         </div>
