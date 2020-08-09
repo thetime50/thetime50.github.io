@@ -21,10 +21,29 @@
   <title><%- config.title %></title>
 
   <!-- Bootstrap CSS -->
-  <%- css('css/bootstrap.min.css') %>
+  <!-- <%- css('css/bootstrap.min.css') %> -->
   <!-- Custom CSS -->
-  <% var targetStyle = 'css/style.' + (config.theme_style || 'light') + '.css' %>
-  <%- css(targetStyle) %>
+  <!-- <% var targetStyle = 'css/style.' + (config.theme_style || 'light') + '.css' %> -->
+  <!-- <%- css(targetStyle) %> -->
+
+  <script>
+    function tool_css(path){
+      let el = document.createElement('link')
+      el.rel = "stylesheet" 
+      if(document.location.hostname == "thetime50.com"){//"thetime50.github.io"){//
+        el.href= `/io/${path}`
+      }else{//"thetime50.com"){
+        el.href= `/${path}`
+      }
+      document.head.appendChild(el)
+    }
+    // Bootstrap CSS
+    tool_css('css/bootstrap.min.css')
+    // Custom CSS
+    
+    var targetStyle = "<%- 'css/style.' + (config.theme_style || 'light') + '.css' -%>"
+    tool_css(targetStyle)
+  </script>
 
   <!-- Google Analytics -->
   <%- partial('google-analytics') %>
