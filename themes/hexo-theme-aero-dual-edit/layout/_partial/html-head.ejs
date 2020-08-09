@@ -21,12 +21,12 @@
   <title><%- config.title %></title>
 
   <!-- Bootstrap CSS -->
-  <!-- <%- css('css/bootstrap.min.css') %> -->
+  <%- css('css/bootstrap.min.css') %>
   <!-- Custom CSS -->
-  <!-- <% var targetStyle = 'css/style.' + (config.theme_style || 'light') + '.css' %> -->
-  <!-- <%- css(targetStyle) %> -->
+  <% var targetStyle = 'css/style.' + (config.theme_style || 'light') + '.css' %>
+  <%- css(targetStyle) %>
 
-  <script>
+  <!-- <script>
     function tool_css(path){
       let el = document.createElement('link')
       el.rel = "stylesheet" 
@@ -43,7 +43,7 @@
     
     var targetStyle = "<%- 'css/style.' + (config.theme_style || 'light') + '.css' -%>"
     tool_css(targetStyle)
-  </script>
+  </script> -->
 
   <!-- Google Analytics -->
   <%- partial('google-analytics') %>
