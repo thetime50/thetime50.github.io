@@ -51,12 +51,9 @@ tags:
 <!--   - 使用vuedraggable vue-grid-layout优化数据交互和定制页面布局等 -->
 
 ## 开源项目
-- [分离chrome的t-rex-runner -2019](http://thetime50.com/show-pages/t-rex-runner-zero)  
-- [类似bilibili app的vue实现 -2019](https://github.com/thetime50/Bilebilelike)  
-API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/master/API%20Document.md)  
-解析BiliBili API：[bilibili api →](https://github.com/thetime50/Bilebilelike/blob/master/docs/bilibili%20api/bilibili%20api.md)  
-预览：[\[→link\]](http://thetime50.com/Bilebilelike/)  
-
+- DICOM文件解析demo v0.0.1版本 -2020  
+  [项目在线预览](http://thetime50.com/front-laboratory/laboratory/dist/index.html#/demo/dicom)  
+  [项目开发文档](https://github.com/thetime50/front-laboratory/blob/master/doc/DICOM/README.md)
 - [quasar epub阅读器 合作完成 -2020](https://code.aliyun.com/zero-reader/frontend)  
   [技术点介绍->](https://code.aliyun.com/zero-reader/frontend/blob/master/docs/%E4%BB%8B%E7%BB%8D-lx.md)
 - [细胞自动机和3D图表 -2020](https://codepen.io/thetime50/full/dyowVWE)  
@@ -70,6 +67,12 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
 - [脚本工具和cnd -2020](https://github.com/thetime50/tampermonkeyscript/blob/master/README.md)
 - [opencv学习笔记 -2020](https://github.com/thetime50/opencv-practice)
 
+
+- [类似bilibili app的vue实现 -2019](https://github.com/thetime50/Bilebilelike)  
+API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/master/API%20Document.md)  
+解析BiliBili API：[bilibili api →](https://github.com/thetime50/Bilebilelike/blob/master/docs/bilibili%20api/bilibili%20api.md)  
+预览：[\[→link\]](http://thetime50.com/Bilebilelike/)  
+- [分离chrome的t-rex-runner -2019](http://thetime50.com/show-pages/t-rex-runner-zero)  
 
 <style>
 @import url('https://cdn.jsdelivr.net/gh/thetime50/tampermonkeyscript@master/style/common.css');
