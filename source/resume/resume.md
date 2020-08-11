@@ -86,7 +86,7 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
     ><div class="flex-mean "
         ><div><a src="http://thetime50.com/Bilebilelike">Bilebilelike预览：→link</a></div
         ><img alt="Bilibililike-qr.png" 
-            src="https://github.com/thetime50/Bilebilelike/raw/master/docs/imgs/Bilibililike-qr.png"
+            src="https://cdn.jsdelivr.net/gh/thetime50/Bilebilelike@master/docs/imgs/Bilibililike-qr.png"
     /></div
     ><div class="flex-mean"
         ><div><a src="https://codepen.io/thetime50/full/dyowVWE">Game of life预览：→link</a></div
