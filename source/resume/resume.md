@@ -51,11 +51,11 @@ tags:
 <!--   - 使用vuedraggable vue-grid-layout优化数据交互和定制页面布局等 -->
 
 ## 开源项目
-- [分离chrome的t-rex-runner -2019](https://thetime50.github.io/show-pages/t-rex-runner-zero)  
+- [分离chrome的t-rex-runner -2019](http://thetime50.com/show-pages/t-rex-runner-zero)  
 - [类似bilibili app的vue实现 -2019](https://github.com/thetime50/Bilebilelike)  
 API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/master/API%20Document.md)  
 解析BiliBili API：[bilibili api →](https://github.com/thetime50/Bilebilelike/blob/master/docs/bilibili%20api/bilibili%20api.md)  
-预览：[\[→link\]](https://thetime50.github.io/Bilebilelike/)  
+预览：[\[→link\]](http://thetime50.com/Bilebilelike/)  
 
 - [quasar epub阅读器 合作完成 -2020](https://code.aliyun.com/zero-reader/frontend)  
   [技术点介绍->](https://code.aliyun.com/zero-reader/frontend/blob/master/docs/%E4%BB%8B%E7%BB%8D-lx.md)
@@ -81,7 +81,7 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
 
 <div class="img-wrap flex-layout frow"
     ><div class="flex-mean "
-        ><div><a src="https://thetime50.github.io/Bilebilelike">Bilebilelike预览：→link</a></div
+        ><div><a src="http://thetime50.com/Bilebilelike">Bilebilelike预览：→link</a></div
         ><img alt="Bilibililike-qr.png" 
             src="https://github.com/thetime50/Bilebilelike/raw/master/docs/imgs/Bilibililike-qr.png"
     /></div
@@ -106,7 +106,7 @@ fb66fb
 
 希望向技术性强的方向发展，追求本质的技术 和表达
 
-网页简历：[\[→link\]](https://thetime50.github.io/resume/resume)
+网页简历：[\[→link\]](http://thetime50.com/resume/resume)
 
 ## 其他
 github: https://github.com/thetime50  
@@ -117,6 +117,6 @@ codepen: https://codepen.io/thetime50/
 
 ***<u>目标是有钱有闲，安排好时间工作 生活 学习，交朋友 开阔眼界 保持增长。</u>***
 
-- [社交账号->](https://thetime50.github.io/resume/social)
+- [社交账号->](http://thetime50.com/resume/social)
 
 - 欢迎来撩，欢迎勾搭扯淡，欢迎指点迷津
