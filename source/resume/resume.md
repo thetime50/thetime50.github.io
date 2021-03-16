@@ -9,14 +9,13 @@ tags:
 
 ## 专业技能
 - 前端框架：  Vue全家桶 JQuery 等
-- UI框架：   BootStrap Mint-ui Element-ui quasar 等
-- 组件： Swiper better-scroll vue-lazyload vue-touch 等
+- UI框架：   BootStrap Mint-ui Element-ui quasar vue-element-admin 等
 - 图像图表： 熟练使用echarts 数据可视化 常用图标 地图 3D图表应用
   了解zrender库
 - 服务和后端： 
     axios mockjs模拟数据测试 <s>postman</s> Tampermonkey ReRes Ajax-Interceptor 等
     mongodb 查询数据
-- 项目工具： webpack打包配置和插件 vuecli quasarcli
+- 项目工具： webpack打包配置和插件 vuecli quasarcli AirTest
 - 了解 React Amaze-UI ES6 eslint <s>ionc cordova tcpdump infogram</s>等
 - python。嵌入式产品和项目经验
 
@@ -36,7 +35,7 @@ tags:
 
 - 项目职责项目经验：  
   - 各项目特定页面实现，后台页面设计、查询面板设计等新增功能的实现、维护
-  - echart包装组件饼图 折现 地图等图表展示和交互，devexpress datagrid报表和数据统计
+  - echart包装组件饼图 折线 地图等图表展示和交互，devexpress datagrid报表和数据统计
   - 深度定制element-ui组件 继承原有特性(prop slot event)的基础上增加功能逻辑，同一处理项目上的设计要求  
   - 设计了样式/主题管理框架
   - 整理了项目代码结构，使用布局组件/样式组件/功能组件的代码结构分离布局/样式和功能逻辑，模块化开发降低耦合可复用性好
