@@ -134,8 +134,4 @@ codepen: https://codepen.io/thetime50/
 
 经常关注各类电台、Podcast：北槽、BYM、Anyway.FM、设计乘数、ggtallk、一天世界、优设、UX Coffee、等  
 
-***<u>目标是安排好时间工作 生活 学习，交朋友 开阔眼界 保持增长。</u>***
-
-- [社交账号->](http://thetime50.com/resume/social)
-
-- 欢迎来撩，欢迎勾搭扯淡
+***目标是安排好时间工作 生活 学习，交朋友 开阔眼界 保持增长。***
