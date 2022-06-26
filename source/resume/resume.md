@@ -14,8 +14,8 @@ tags:
 - 小程序： uniapp微信小程序开发 了解原生微信小程序
 - 服务和后端：了解  mongodb 查询数据 koa jwt登录等
 - 项目工具： webpack/rullup打包环境等打包配置和插件 vuecli quasarcli AirTest
-- 了解 React Amaze-UI ES6 eslint
-- python。嵌入式产品和项目经验
+- 了解 React Amaze-UI ES6 eslint chrome 插件开发
+- python 嵌入式产品和项目经验
 
 ## 毕业学校
 - 2009-2012 福建南平第八中学 高中时期理科优秀
