@@ -71,9 +71,9 @@ tags:
 万用表WIFI模块 HTTP/MQTT协议的云端宠物喂食器 使用 ucos freeRtos等
 
 ## 开源项目
-- [npm uniapp项目ci工具等](https://www.npmjs.com/~thetime50)
-- [threejs 3d魔方](http://thetime50.com/front-laboratory/vue3-tsv/dist/#/rubikCube)
-- [koa 文本语法标注项目](https://github.com/thetime50/back-laboratory)
+- [npm uniapp项目ci工具等 -2021](https://www.npmjs.com/~thetime50)
+- [threejs 3d魔方 -2021](http://thetime50.com/front-laboratory/vue3-tsv/dist/#/rubikCube)
+- [koa 文本语法标注项目 -2020](https://github.com/thetime50/back-laboratory)
 - DICOM文件解析demo v0.0.1版本 -2020  
   [项目在线预览](http://thetime50.com/front-laboratory/laboratory/dist/index.html#/demo/dicom)  
   [项目开发文档](https://github.com/thetime50/front-laboratory/blob/master/doc/DICOM/README.md)
@@ -102,32 +102,12 @@ API文档：[API Document →](https://github.com/thetime50/Bilebilelike/blob/ma
 }
 </style>
 
-<div class="img-wrap flex-layout frow"
-    ><div class="flex-mean "
-        ><div><a href="http://thetime50.com/Bilebilelike" target="_blank" >Bilebilelike预览：→link</a></div
-        ><img alt="Bilibililike-qr.png" 
-            src="https://cdn.jsdelivr.net/gh/thetime50/Bilebilelike@master/docs/imgs/Bilibililike-qr.png"
-    /></div
-    ><div class="flex-mean"
-        ><div><a href="https://codepen.io/thetime50/full/dyowVWE" target="_blank">Game of life预览：→link</a></div
-        ><img alt="GameOfLife-qr.png" 
-            src="./img/GameOfLife-qr.png"
-    /></div
-></div>
-<div><!--
-http://www.wwei.cn/
-液态 2000*2000
-08d5ff
-fb66fb
---></div>
-
-## 学习关注的方向
-产品 设计 一点点的后端和大前端 webGL webapp 机器学习 小程序  
+## 学习关注和发展方向
 - 产品和设计作为必要的相关专业知识  
-- 后端和大前端 webGL webapp 小程序 游戏 这些可以在基础扎实以后作为学习和了解的方向  
+- 后端和大前端 webGL webapp 小程序 游戏
 - 学习了解机器学习 数据可视化等技术
 
-希望向技术性强的方向发展，追求本质的技术 和表达
+希望可以管理一个小项目，规划技术架构和开发进度，追求本质的技术 和表达
 
 网页简历：[\[→link\]](http://thetime50.com/resume/resume)
 
