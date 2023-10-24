@@ -1,6 +1,6 @@
 ---
 title: About Me
-date: 2023-10-07 10:07:51
+date: 2023-10-24 10:07:51
 tags:
 ---
 # About Me
@@ -10,7 +10,7 @@ tags:
 ## 专业技能
 - 前端框架： vue2 vue3 vite react chrome插件开发 electron
 - python:  xlwings openpyxl paddle langchain tornado
-- androoid: lotlin app 开发
+- androoid: kotlin app 开发
 - UI框架： Element-ui quasar antd 字节arco-design vantdesign
 - 图像图表： echarts x6js 了解zrender库
 - 小程序： uniapp微信小程序开发 了解原生微信小程序
@@ -21,12 +21,14 @@ tags:
 
 ## 从业经历
 2022年8月-至今 福州紫讯
-  - 虎步rpa 图像化编程工具, electron + python + chrome 插件
+  - 虎步rpa 图像化编程工具
+    - react-ts + electron + python + chrome 插件
     - python 执行器元件 使用了Monaco代码编辑器 语言服务添加语法/方法提示
     - execl处理元件 xlwings win32 Dispatch 原理
     - chrom商店插件卸载目录插件安装逻辑
     - 通用票据识别技术调研和实现 paddle 调研和环境部署
   - 云手机项目 前端 推流交互
+    - react-ts 
     - 直播流worker化改造验证
     - 易波直播方案brodewary改jmuxer验证
     - python 各服务器方案平行调研 ，tornado websocket服务实现，二进制任意形式 数据流封包设计实现(js+python)
