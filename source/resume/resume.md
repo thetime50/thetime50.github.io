@@ -28,7 +28,7 @@ tags:
     - chrom商店插件卸载目录插件安装逻辑
     - 通用票据识别技术调研和实现 paddle 调研和环境部署
   - 云手机项目 前端 推流交互
-    - react-ts 
+    - react-ts - electron-react-boilerplate
     - 直播流worker化改造验证
     - 易波直播方案brodewary改jmuxer验证
     - python 各服务器方案平行调研 ，tornado websocket服务实现，二进制任意形式 数据流封包设计实现(js+python)
