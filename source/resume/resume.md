@@ -9,11 +9,11 @@ tags:
 
 ## 专业技能
 - 前端框架： vue2 vue3 vite react chrome插件开发 electron
+- 小程序： uniapp微信小程序开发 了解原生微信小程序
 - python:  xlwings openpyxl paddle langchain tornado
 - androoid: kotlin app 开发
 - UI框架： Element-ui quasar antd 字节arco-design vantdesign
 - 图像图表： echarts x6js 了解zrender库
-- 小程序： uniapp微信小程序开发 了解原生微信小程序
 - 服务和后端：了解 mongodb koa jwt登录 docker 等
 - 项目工具： webpack/rullup打包环境等打包配置和插件 vuestart quasarcli AirTest eslint 
 - 嵌入式产品项目经验
