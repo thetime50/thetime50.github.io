@@ -87,20 +87,9 @@ tags:
 }
 </style>
 
-## 学习关注和发展方向
-- 产品和设计作为必要的相关专业知识  
-- 后端和大前端 webGL webapp 小程序 游戏
-- 学习了解机器学习 数据可视化等技术
-
 希望有机会管理小项目，规划技术架构实施，追求本质的技术 和表达
 
 网页简历：[\[→link\]](http://thetime50.com/resume/resume)
 
-## 其他
-github: https://github.com/thetime50  
-codepen: https://codepen.io/thetime50/  
-阿里天池: https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279474052  
-
-经常关注各类电台、Podcast：北槽、BYM、Anyway.FM、设计乘数、ggtallk、一天世界、优设、UX Coffee、等  
 
 ***目标是安排好时间工作 生活 学习，交朋友 开阔眼界 保持增长。***
